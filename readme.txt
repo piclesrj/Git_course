@@ -1,0 +1,1 @@
+Ciclo de vida dos Status do arquivo
